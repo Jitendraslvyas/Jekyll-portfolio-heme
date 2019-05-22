@@ -1,6 +1,6 @@
 # Site settings
-name: Edwin E. Exemplar
-email: edwin+contactme@someemail.com
+name: Jitendra Vyas
+email: jitendraslvyas@gmail.com
 #canonical_url: https://edwinexemplar.com
 keywords: "Software Engineer, Python, Ruby, Machine Learning, Deep Learning, Startups, Agile, Pair Programming"
 skills: "Senior Software Engineer in Seattle, WA (Fictitious)"
@@ -10,11 +10,11 @@ baseurl:
 # You should replace these with your social networks, of course. :)
 social:
   - title: linkedin
-    url: https://www.linkedin.com/in/cgroom/
-  - title: medium
-    url: https://medium.com/@cgroom
+    url: https://www.linkedin.com/in/jitendra-vyas-2483a1101/
+  # - title: medium
+  #   url: https://medium.com/@cgroom
   - title: twitter
-    url: https://twitter.com/chuck_groom
+    url: https://twitter.com/jitendraslvyas
     
 # Google webmaster tools
 google_verify:
